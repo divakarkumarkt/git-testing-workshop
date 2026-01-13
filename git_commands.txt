@@ -14,5 +14,9 @@ clear
 git status
 clear
 git status
+<<<<<<< HEAD
 git push 
 git pull
+=======
+
+
