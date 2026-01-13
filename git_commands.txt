@@ -14,7 +14,3 @@ clear
 git status
 clear
 git status
-
-
-
-this is new chanes
